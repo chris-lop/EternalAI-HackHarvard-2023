@@ -1,0 +1,4 @@
+# requirements.txt
+gradio
+openai
+python-dotenv
